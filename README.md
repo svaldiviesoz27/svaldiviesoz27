@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/QuitoTactico/QuitoTactico/raw/main/docs/hello.svg" width="100%">
+  <img src="https://media1.tenor.com/m/9e7qnwUmIOsAAAAd/initiald-car.gif" width="100%">
 </p>
 
 # System Protocol: Initiating Sequence...
@@ -39,9 +39,9 @@ Reinforcing my "AT-Field" and expanding my realm into:
 When I'm not optimizing my AT-Field or debugging the reality, you'll find me:
 
 * **Musical Alchemy:** Multi-instrumentalist (Guitarist, Bassist, Pianist, and Vocalist). My code is often synchronized to the rhythm of:
-    * *Linkin Park, BMTH, Bullet For My Valentine, Avenged Sevenfold, Asking Alexandria, Motionless In White, Hanabie., Arch Enemy & Poppy.*
+    * *Linkin Park, BMTH, Bullet For My Valentine, Avenged Sevenfold, Asking Alexandria, Motionless In White, Hanabie., Arch Enemy, Poppy... and a heavy dose of **Eurobeat**.*
+* **High-Speed Obsession:** A dedicated enthusiast of cars and motorcycles. I live for the adrenaline of the mountain passes and the "Most Wanted" spirit. Whether it's chasing the perfect drift or hitting the rev limiter on two wheels, I seek the limit of every machine. 🏍️ 🏎️
 * **The World of Play:** Immersed in video games, exploring different realities and complex systems. 🎮
-* **High-Speed Obsession:** Enthusiast of cars and motorcycles. 🏍️ 🏎️
 * **Physical Discipline:** A dedicated gymrat, tempering my body as I temper my code. 🏋️‍♂️
 
 ---
@@ -51,6 +51,8 @@ When I'm not optimizing my AT-Field or debugging the reality, you'll find me:
 
 ---
 
-> "Iron stands eternal, even when reality breaks." Writing my way into your world, one sprint at a time.
+*Iron stands eternal, even when reality breaks.*
 
-*The race never ends; it only gets faster.* 🏇
+*The race never ends; it only gets faster.* 
+
+*I came up from the bottom, and into the top!*
