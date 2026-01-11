@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media1.tenor.com/m/9e7qnwUmIOsAAAAd/initiald-car.gif" width="100%">
+  <img src="https://media1.tenor.com/m/c2x8PMbn2_gAAAAC/neon-genesis-evangelion-power.gif" width="100%">
 </p>
 
 # System Protocol: Initiating Sequence...
